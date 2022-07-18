@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+--orange : RGB(255, 142, 101);
+--white : #ffffff;
+--light_grey : #818181;
+--login :  RGB(66, 74, 93);
+}

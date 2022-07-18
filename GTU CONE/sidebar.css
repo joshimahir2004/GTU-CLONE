@@ -1,0 +1,64 @@
+.side_bar{
+   
+
+    height: 100vh;
+    background-color: var(--login);
+    width: 15%;
+}
+
+
+#id_number{
+    color: var(--white);
+    font-size: 1rem;
+    padding: 15px 0 0 42px;
+}
+#name{
+    padding: 0px 0px 0px 10px;
+    color: var(--white);
+    font-size: 16px;
+    font-family: 'Patua One', cursive;
+}
+
+.naruto_img{
+    width: 120px;
+    border-radius: 13rem;
+    height: 100px;    
+    margin: 1rem 2rem;
+}
+
+.icon {    
+    font-size: 10px;
+  color: rgb(202, 202, 202);
+    display:inline-block;
+    
+    
+  
+}
+li {   
+
+    
+    margin: 15px 0;
+    display: flex;
+    font-family: 'Patua One', cursive;
+    list-style-type: none;
+    /* color: white; */
+    font-size: 0.9rem;
+    align-items: center;
+}
+
+.icon_1{
+    margin: 1rem;
+}
+
+
+.active{       
+    
+    height: 40px;
+    background-color: var(--orange);
+    color: white;
+    width: 202px;
+}
+
+
+
+
